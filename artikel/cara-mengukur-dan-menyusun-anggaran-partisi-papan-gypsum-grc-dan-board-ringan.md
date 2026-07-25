@@ -1,0 +1,206 @@
+---
+article_id: PAR-02-04
+title: "Cara Mengukur dan Menyusun Anggaran Partisi papan gypsum, GRC, dan board ringan"
+slug: "cara-mengukur-dan-menyusun-anggaran-partisi-papan-gypsum-grc-dan-board-ringan"
+description: "Pembaca dapat mencatat kuantitas, komponen biaya, asumsi, pengecualian, risiko, dan contingency yang perlu dimasukkan."
+status: outline
+publication_date: "2025-06-18"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: PAR-02
+primary_intent: "Mengumpulkan ukuran dan variabel biaya untuk menyusun anggaran awal Partisi papan gypsum, GRC, dan board ringan tanpa mengarang harga tetap."
+reader_community: "Partisi.co.id"
+reader_address: "Teman Partisi.co.id"
+final_route: "/artikel/cara-mengukur-dan-menyusun-anggaran-partisi-papan-gypsum-grc-dan-board-ringan.html"
+technical_review: required
+sources:
+  - "https://www.iso.org/standard/72959.html"
+  - "https://www.iso.org/standard/72961.html"
+  - "https://www.iso.org/standard/72962.html"
+  - "https://knauf.com/en-EG/systems/drywall-systems"
+  - "https://pesta.bsn.go.id/produk/detail/5952-sni03-6384-2000"
+  - "https://pesta.bsn.go.id/produk/detail/12221-sni82992017"
+  - "https://pesta.bsn.go.id/produk/detail/11431-sni84212017"
+  - "https://pesta.bsn.go.id/produk/detail/13258-sni84212017amd12020"
+  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-216-2010.pdf"
+  - "https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende"
+  - "https://pesta.bsn.go.id/produk/detail/12927-sni17272020"
+  - "https://pesta.bsn.go.id/produk/detail/12762-sni17262019"
+  - "https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf"
+  - "https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000"
+  - "https://pesta.bsn.go.id/produk/detail/7531-sni17412008"
+  - "https://pesta.bsn.go.id/produk/by_ics/126"
+  - "https://www.iso.org/standard/83943.html"
+  - "https://store.astm.org/e0119-24.html"
+  - "https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0"
+  - "https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf"
+  - "https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Cara Mengukur dan Menyusun Anggaran Partisi papan gypsum, GRC, dan board ringan
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Cara Mengukur dan Menyusun Anggaran Partisi papan gypsum, GRC, dan board ringan”
+- **Reader and situation:** Pemilik atau estimator yang perlu kisaran berbasis ruang lingkup sebelum meminta penawaran.
+- **Reader outcome:** Pembaca dapat mencatat kuantitas, komponen biaya, asumsi, pengecualian, risiko, dan contingency yang perlu dimasukkan.
+- **Primary intent:** Mengumpulkan ukuran dan variabel biaya untuk menyusun anggaran awal Partisi papan gypsum, GRC, dan board ringan tanpa mengarang harga tetap.
+- **Reader community:** `Partisi.co.id`
+- **Primary friendly address:** `Teman Partisi.co.id`
+- **Natural variants:** `Sobat Partisi.co.id` and `Kawan Partisi.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Tidak menerbitkan harga abadi dan tidak menggantikan penawaran proyek; transaksi dimiliki /kontak/, sedangkan kontrol pelaksanaan dimiliki PAR-02-05.
+- **Final public route:** `/artikel/cara-mengukur-dan-menyusun-anggaran-partisi-papan-gypsum-grc-dan-board-ringan.html`
+- **Appointed CMS date:** `2025-06-18` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Teman Partisi.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Mengukur dan Menyusun Anggaran Partisi papan gypsum, GRC, dan board ringan**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Teman Partisi.co.id`, `Sobat Partisi.co.id`, or `Kawan Partisi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-05
+
+- **Original sources:** [ISO 4586-1:2018 overview of the HPL series](https://www.iso.org/standard/72959.html), [ISO 4586-3:2018 thin HPL for bonding to a support](https://www.iso.org/standard/72961.html), [ISO 4586-4:2018 interior compact laminate](https://www.iso.org/standard/72962.html), [Knauf drywall systems overview](https://knauf.com/en-EG/systems/drywall-systems)
+- **Purpose for this article:** Prevent the catalog from treating HPL, compact laminate, gypsum board, framing, and a complete partition as synonyms.
+- **Safe grounded facts:** A decorative laminate sheet, a self-supporting compact panel, a composite panel, and an installed cubicle are different objects. Likewise, board type does not establish stud size, height capacity, impact resistance, acoustic performance, fire performance, or suitability around services.
+- **Limits:** ISO abstracts do not expose classifications or test values. Named manufacturer configurations are not universal and must be matched to locally supplied documents; resolve `G-05`.
+
+### KR-06
+
+- **Original sources:** [SNI 03-6384-2000 gypsum-board specification — BSN](https://pesta.bsn.go.id/produk/detail/5952-sni03-6384-2000), [SNI 8299:2017 non-asbestos flat fibre-cement board — BSN](https://pesta.bsn.go.id/produk/detail/12221-sni82992017), [SNI 8421:2017 mineral wool — BSN](https://pesta.bsn.go.id/produk/detail/11431-sni84212017), [SNI 8421:2017/Amd.1:2020 — BSN](https://pesta.bsn.go.id/produk/detail/13258-sni84212017amd12020), [Gypsum Association GA-216-2010 public application/finishing specification](https://www.gypsum.org/wp-content/uploads/2011/11/GA-216-2010.pdf), [Knauf W11 metal-stud partition documentation hub](https://knauf.com/de-DE/systeme/trockenbausysteme/w11-de-metallstaenderwaende)
+- **Purpose for this article:** Establish evidence inputs for board selection, storage, framing, finishing, service integration, moisture exposure, and repairability.
+- **Safe grounded facts:** “Board tahan lembap,” “GRC,” “gypsum,” and “mineral wool” do not define a finished assembly. Delivery/storage, exposure, framing, fasteners, joint treatment, penetrations, head details, finish level, and manufacturer system rules all influence serviceability and performance.
+- **Limits:** GA-216-2010 is a public older edition and US industry guidance, not Indonesian law. Verify the current edition and exact supplier system before procedural claims. Catalog pages do not expose SNI acceptance criteria; resolve `G-01` and `G-05`.
+
+### KR-10
+
+- **Original sources:** [SNI 1727:2020 minimum design loads — BSN](https://pesta.bsn.go.id/produk/detail/12927-sni17272020), [SNI 1726:2019 seismic design — BSN](https://pesta.bsn.go.id/produk/detail/12762-sni17262019), [FEMA E-74 practical guide to nonstructural earthquake damage](https://www.fema.gov/sites/default/files/2020-07/fema_earthquakes_reducing-the-risks-of-nonstructural-earthquake-damage-a-practical-guide-fema-e-74.pdf)
+- **Purpose for this article:** Ground full-height/partial-height walls, tall partitions, door openings, ceiling interfaces, top-hung systems, suspended loads, and retrofit in load-path and movement questions.
+- **Safe grounded facts:** A ceiling grid is not automatically structural support. Partition loads and building movement travel through studs/panels, tracks/bracing, anchors, and the supporting structure. Openings, heavy fixtures, top-hung walls, tall walls, and tight interfaces can materially change demands and damage.
+- **Limits:** FEMA is not Indonesian code and SNI catalog records do not expose calculations. No universal stud, anchor, spacing, deflection head, or bracing detail may be published. Resolve `G-01`, `G-03`, and `G-06`.
+
+### KR-13
+
+- **Original sources:** [SNI 03-1736-2000 passive fire-protection catalog record — BSN](https://pesta.bsn.go.id/produk/detail/2080-sni03-1736-2000), [SNI 1741:2008 fire-resistance test — BSN](https://pesta.bsn.go.id/produk/detail/7531-sni17412008), [BSN fire-safety catalog listing SNI 9038-3:2025 passive-system inspection/maintenance](https://pesta.bsn.go.id/produk/by_ics/126), [ISO 834-1:2025 fire-resistance test scope](https://www.iso.org/standard/83943.html), [ASTM E119-24 scope and limits](https://store.astm.org/e0119-24.html)
+- **Purpose for this article:** Separate reaction/surface-burning claims from fire resistance of a complete separating assembly and from in-service inspection.
+- **Safe grounded facts:** Surface flame/smoke classification is not a wall fire-resistance rating. A fire-resistance claim belongs to the exact assembly, including boards/panels, framing, fasteners, insulation, joints, perimeter, doors, penetrations, and installation. A test method alone is not a pass result.
+- **Limits:** Full SNI/local requirements, a competent fire professional, and exact system evidence are mandatory before ratings or compliance language. Resolve `G-01`, `G-02`, and `G-10`.
+
+### KR-15
+
+- **Original sources:** [US EPA Moisture Control Guidance for Building Design, Construction and Maintenance](https://www.epa.gov/indoor-air-quality-iaq/moisture-control-guidance-building-design-construction-and-maintenance-0), [Gypsum Association mold-prevention guidance](https://www.gypsum.org/wp-content/uploads/2011/11/GA-238-03.pdf), [Formica Compact fabrication guidance for wet areas](https://www.formica.com/zh-cn/-/media/project/formica/asia/documents/products-documents/compact/farbiration-guide_compact_2023.pdf?rev=692c868288044704aac2458e42c2bb23)
+- **Purpose for this article:** Ground moisture-exposure classification, material storage, ventilation, edge/interface details, leak diagnosis, and repair/replace decisions.
+- **Safe grounded facts:** “Moisture resistant” is not “waterproof assembly.” Leaks, condensation, capillary contact, submerged/flood exposure, drainage, ventilation, edges, fastener holes, substrate, sealants, corrosion, and drying access can control service life and hygiene.
+- **Limits:** US/industry guidance is not an Indonesian code. Exact exposure category, replacement threshold, sealant, chemical, and drying/remediation method need site facts and product instructions; resolve `G-05`, `G-06`, and `G-11`.
+
+## Evidence gates
+
+- **TOPIC-GATE:** G-01, G-02, G-03, G-05, G-07
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/gypsum` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/grc` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/gypsum/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/grc/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `PAR-02-02` → `/artikel/cara-menentukan-kebutuhan-partisi-papan-gypsum-grc-dan-board-ringan-sebelum-memilih-solusi.html` — Cara Menentukan Kebutuhan Partisi papan gypsum, GRC, dan board ringan Sebelum Memilih Solusi
+- `PAR-02-03` → `/artikel/perbandingan-opsi-partisi-papan-gypsum-grc-dan-board-ringan-kriteria-trade-off-dan-red-flag.html` — Perbandingan Opsi Partisi papan gypsum, GRC, dan board ringan: Kriteria, Trade-off, dan Red Flag
+- `PAR-02-05` → `/artikel/tahapan-pekerjaan-partisi-papan-gypsum-grc-dan-board-ringan-persiapan-pelaksanaan-dan-kontrol-mutu.html` — Tahapan Pekerjaan Partisi papan gypsum, GRC, dan board ringan: Persiapan, Pelaksanaan, dan Kontrol Mutu
+- `PAR-02-06` → `/artikel/checklist-inspeksi-dan-perawatan-partisi-papan-gypsum-grc-dan-board-ringan.html` — Checklist Inspeksi dan Perawatan Partisi papan gypsum, GRC, dan board ringan
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Definisikan kebutuhan sebelum meminta harga
+
+- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
+- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur dan Menyusun Anggaran Partisi papan gypsum, GRC, dan board ringan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Buat penawaran benar-benar sebanding
+
+- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
+- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur dan Menyusun Anggaran Partisi papan gypsum, GRC, dan board ringan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Dokumen yang membuktikan hal berbeda
+
+- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
+- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur dan Menyusun Anggaran Partisi papan gypsum, GRC, dan board ringan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Pertanyaan wajib kepada penyedia
+
+- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
+- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur dan Menyusun Anggaran Partisi papan gypsum, GRC, dan board ringan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Red flag dan biaya yang sering tersembunyi
+
+- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
+- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur dan Menyusun Anggaran Partisi papan gypsum, GRC, dan board ringan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Penerimaan, serah terima, dan keputusan akhir
+
+- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
+- **Tie back to this article:** Keep the explanation specific to “Cara Mengukur dan Menyusun Anggaran Partisi papan gypsum, GRC, dan board ringan”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Teman Partisi.co.id!` and uses friendly `Partisi.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
